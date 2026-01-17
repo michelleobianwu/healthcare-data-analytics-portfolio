@@ -32,4 +32,5 @@ Deliverables:
 - Business documentation
 
 Dashboard:
-(Tableau Public link will go here)
+https://public.tableau.com/views/HospitalReadmissionsAnalysisDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
